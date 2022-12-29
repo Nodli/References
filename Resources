@@ -148,3 +148,6 @@ https://advances.realtimerendering.com/s2015/aaltonenhaar_siggraph2015_combined_
 
 CPU Branch prediction
 https://danluu.com/branch-prediction/
+
+Colony / std::hive / Low Complexity Jump Counting Pattern
+https://plflib.org/colony.htm
