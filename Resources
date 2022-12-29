@@ -1,0 +1,147 @@
+// ---- GDC 2022
+
+'Knockout City's' Parallel, Deterministic, and Rewindable Entity System
+https://www.gdcvault.com/play/1028073/-Knockout-City-s-Parallel
+
+Advanced Graphics Summit: New Graphics Features for 'Forspoken'
+https://www.gdcvault.com/play/1027751/Advanced-Graphics-Summit-New-Graphics
+
+Advanced Graphics Summit: Designing the Terrain System of 'Flight Simulator': Representing the Earth
+https://www.gdcvault.com/play/1027838/Advanced-Graphics-Summit-Designing-the
+
+C++ Coroutines are NOW!
+https://gdcvault.com/play/1028064/C-Coroutines-are-NOW
+
+Adventures with Deferred Texturing in 'Horizon Forbidden West'
+https://www.gdcvault.com/play/1028035/Adventures-with-Deferred-Texturing-in
+
+Advanced Graphics Summit: Real-Time Ray Tracing in 'Hitman 3'
+https://www.gdcvault.com/play/1027953/Advanced-Graphics-Summit-Real-Time
+
+Architecting Jolt Physics for 'Horizon Forbidden West'
+https://www.gdcvault.com/play/1027891/Architecting-Jolt-Physics-for-Horizon
+
+An Overview of the 'Diablo II: Resurrected' Renderer
+https://www.gdcvault.com/play/1028027/An-Overview-of-the-Diablo
+
+One Frame in 'Halo Infinite'
+https://www.youtube.com/watch?v=IUiNUky-ibM
+
+Breaking Down the World of Athia: The Technologies of Forspoken (Presented by AMD)
+https://www.gdcvault.com/play/1027809/
+
+DOTS Authoring and Debugging Workflows in the Unity Editor (Presented by Unity)
+https://www.gdcvault.com/play/1028114/
+
+Shifts and Rifts: Dimensional Tech in 'Ratchet and Clank: Rift Apart'
+https://www.gdcvault.com/play/1027872/Shifts-and-Rifts-Dimensional-Tech
+
+The MAW: Safely Multithreading the Deterministic Gameplay of 'Age of Empires IV'
+https://www.gdcvault.com/play/1027881/The-MAW-Safely-Multithreading-the
+
+Can We Do It with Particles?: VFX Learnings from 'Returnal'
+https://www.youtube.com/watch?v=qbkb8ap7vts
+
+Simulating Tropical Weather in 'Far Cry 6'
+https://www.youtube.com/watch?v=mGHCOOnI5aE
+
+From Weapons to Wizards: Transforming Aesthetic and Modularity in 'Tiny Tina's Wonderlands'
+https://www.youtube.com/watch?v=k5EFEV1sfgM
+Borderlands 3: Sound Design Breakdown of the Maliwan Sniper Rifles
+https://www.youtube.com/watch?v=0QGsvZlmuOg
+Borderlands 3: Sound Design Breakdown of the Maliwan Dropships
+https://www.youtube.com/watch?v=QAUV1La-Avw
+Borderlands 3: Sound Design Breakdown of the Mouthpiece Speakers
+https://www.youtube.com/watch?v=cKp7g6bA0dQ
+
+Making the Believable Horses of 'Red Dead Redemption II'
+https://www.youtube.com/watch?v=8vtCqfFAjKQ&t=636s
+
+Restoring the Forest: Capturing the Themes of 'Kena' Through VFX
+https://www.youtube.com/watch?v=bpFdfrg8SvY
+
+Building 'Zeta Halo': Scaling Content Creation for the Largest 'Halo' Ever
+https://www.youtube.com/watch?v=cf1FhcvF54E
+
+-- PlayStation DevCon 2022
+
+CAPCOM: VILLAGE & Developing for Next Gen
+https://web.cvent.com/hub/events/10a63da8-a666-4fb1-91a8-096ac19c21e9/sessions/4e48af86-7237-4ffb-b714-e6e1f812df3d
+
+CPU Optimization Case Study
+https://web.cvent.com/hub/events/10a63da8-a666-4fb1-91a8-096ac19c21e9/sessions/2ea31d07-c311-4289-8d2a-fd43c509644d
+
+Compute Shader Optimization 1
+https://p.siedev.net/docs/ps_devcon_2022_videos/#Mostly_Compute_Shader_Optimization_Episode_1
+
+Compute Shader Optimization 2
+https://p.siedev.net/docs/ps_devcon_2022_videos/#Mostly_Compute_Shader_Optimization_Episode_2
+
+The Care & Feeding of PS5's Asynchronous Memory Mapper (AMM) at Insomniac
+https://web.cvent.com/hub/events/10a63da8-a666-4fb1-91a8-096ac19c21e9/sessions/fb34e0cf-d956-4db7-b554-1e53433ab5b2
+
+-- Game Camp France 2022
+
+Créer un GaaS et l’ouvrir aux moddeurs | Alyzée Arfel | GCF 2022
+https://www.youtube.com/watch?v=GiZSTWtdzxg&list=PL_sNog5ejKlGQoVWYSdxKyv-yHODhOW6N&index=3
+
+Aventures au royaume des crashs impossibles à reproduire | Jeremy Laumon | GCF 2022
+https://www.youtube.com/watch?v=ij0XZ3BbvlQ&list=PL_sNog5ejKlGQoVWYSdxKyv-yHODhOW6N&index=3
+
+Tout ça pour ça… Les montagnes russes émotionnelles du développement de Young Souls | Jérôme Fait
+https://www.youtube.com/watch?v=DJM2TJ0PK6g&list=PL_sNog5ejKlGQoVWYSdxKyv-yHODhOW6N&index=18
+
+Dune : Spice Wars - de l'usage mesuré de l'épice | Nicolas Cannasse & Franck Delfortrie | GCF 2022
+https://www.youtube.com/watch?v=MrQy2wVsE14&list=PL_sNog5ejKlGQoVWYSdxKyv-yHODhOW6N&index=8
+
+Sortir un jeu en 202X (et bien le vivre) | Sébastien Benard | GCF 2022
+https://www.youtube.com/watch?v=6rfZ-dXZL3g&list=PL_sNog5ejKlGQoVWYSdxKyv-yHODhOW6N&index=26
+
+Art of Lizardcube | Ben Fiquet & Julian You | GCF 2022
+https://www.youtube.com/watch?v=sRRP9irBDHU&list=PL_sNog5ejKlGQoVWYSdxKyv-yHODhOW6N&index=14
+
+-- Digital Dragons 2022
+
+Generation of simplified representations of the city, characters and vehicles for Cyberpunk 2077
+https://www.youtube.com/watch?v=yIoPXGyT9qU
+
+Make it look the same but better - the challenges of remastering Hellblade: Senua's Sacrifice
+https://www.youtube.com/watch?v=ZnwPDPfN6s8&list=PLqUbLv3b1v3cDIo9LCgcsZ3A0whWixGe6&index=26
+
+Tomasz Kosek- Zombie crowds in Dying Light 2: Stay Human
+https://www.youtube.com/watch?v=6GgtmMSlBfU&list=PLqUbLv3b1v3cDIo9LCgcsZ3A0whWixGe6&index=28
+
+-- GDC 2021
+
+Zen of Streaming: Building and Loading 'Ghost of Tsushima'
+https://www.gdcvault.com/play/1027205/Zen-of-Streaming-Building-and
+
+Advanced Graphics Summit: Procedural Grass in 'Ghost of Tsushima'
+https://www.gdcvault.com/play/1027214/Advanced-Graphics-Summit-Procedural-Grass
+
+-- GDC 2019
+
+The VFX Process Behind 'Battleborn'
+https://www.youtube.com/watch?v=DdV1_TOvi0s
+
+Making 'Tetris Effect'-ive
+https://www.youtube.com/watch?v=2BjgXfGiJ1A
+
+Beyond the Remake of 'Shadow of the Colossus': A Technical Perspective
+https://www.youtube.com/watch?v=fcBZEZWGYek
+
+-- GDC 2018
+
+Terrain Rendering in 'Far Cry 5'
+https://www.gdcvault.com/play/1025261/Terrain-Rendering-in-Far-Cry
+
+-- Other
+
+Vertex Buffer Attribute Layout MALI GPUs
+https://developer.arm.com/documentation/102537/0100/Attribute-Buffer-Encoding
+
+Visibility in Horizon Zero Dawn
+https://www.guerrilla-games.com/media/News/Files/GCAP2017_DecimaVisibility.pdf
+
+GPU-Driven Rendering Pipelines
+https://advances.realtimerendering.com/s2015/aaltonenhaar_siggraph2015_combined_final_footer_220dpi.pdf
