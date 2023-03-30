@@ -64,19 +64,10 @@ https://www.youtube.com/watch?v=cf1FhcvF54E
 -- PlayStation DevCon 2022
 
 CAPCOM: VILLAGE & Developing for Next Gen
-https://web.cvent.com/hub/events/10a63da8-a666-4fb1-91a8-096ac19c21e9/sessions/4e48af86-7237-4ffb-b714-e6e1f812df3d
-
 CPU Optimization Case Study
-https://web.cvent.com/hub/events/10a63da8-a666-4fb1-91a8-096ac19c21e9/sessions/2ea31d07-c311-4289-8d2a-fd43c509644d
-
 Compute Shader Optimization 1
-https://p.siedev.net/docs/ps_devcon_2022_videos/#Mostly_Compute_Shader_Optimization_Episode_1
-
 Compute Shader Optimization 2
-https://p.siedev.net/docs/ps_devcon_2022_videos/#Mostly_Compute_Shader_Optimization_Episode_2
-
 The Care & Feeding of PS5's Asynchronous Memory Mapper (AMM) at Insomniac
-https://web.cvent.com/hub/events/10a63da8-a666-4fb1-91a8-096ac19c21e9/sessions/fb34e0cf-d956-4db7-b554-1e53433ab5b2
 
 -- Game Camp France 2022
 
@@ -191,3 +182,12 @@ https://flashypixels.wordpress.com/2018/11/10/intro-to-gpu-scalarization-part-2-
 
 What is shader occupancy and why do we care about it?
 https://interplayoflight.wordpress.com/2020/11/11/what-is-shader-occupancy-and-why-do-we-care-about-it/
+
+Faker's Guide to Assembly
+https://www.timdbg.com/posts/fakers-guide-to-assembly/
+
+Brief Analysis of Nanite
+https://www.notion.so/Brief-Analysis-of-Nanite-94be60f292434ba3ae62fa4bcf7d9379
+
+A macro view of Nanite
+https://www.elopezr.com/a-macro-view-of-nanite/
